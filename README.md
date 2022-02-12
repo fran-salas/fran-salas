@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fran-salas
+- 👀 I’m interested in IA, robot process automation (RPA), and Big Data analysis
+- 🌱 I’m currently learning Celonis process mining, and UiPath
+- 💞️ I’m looking to collaborate on IA projects applied to voice recognition
+- 📫 How to reach me --> francisco.salasgomez@outlook.com
