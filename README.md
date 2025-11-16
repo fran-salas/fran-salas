@@ -47,7 +47,6 @@ Expertise in deploying end-to-end machine learning solutions for business applic
 
 </div>
 
----
 
 ## Experience
 
@@ -55,7 +54,6 @@ Expertise in deploying end-to-end machine learning solutions for business applic
 **TU Delft** | AI/ML Integration Engineer (2023-2024)\
 **Deloitte** | Digital Transformation Consultant (2021-2023)
 
----
 
 ## Let's Connect
 
