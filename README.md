@@ -51,9 +51,9 @@ Expertise in deploying end-to-end machine learning solutions for business applic
 
 ## Experience
 
-**European Space Agency** | Digital Officer (2024)
-**TU Delft** | AI/ML Integration Engineer (2023-2024)
-**Deloitte** | Digital Transformation Consultant (2021-2023)
+**European Space Agency** | Digital Officer (2024)\
+**TU Delft** | AI/ML Integration Engineer (2023-2024)\
+**Deloitte** | Digital Transformation Consultant (2021-2023)\
 
 ---
 
