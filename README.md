@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer | Building & Deploying Intelligent Solutions for Business Impact
 Expertise in deploying end-to-end machine learning solutions for business applications. Background in engineering, technology management, and consulting with experience at ESA, Deloitte, and leading research institutions.\
-**Current Focus:** Production ML systems, NLP applications, and AI-driven business solutions
+**Current Focus:** Production ML systems, NLP applications, and AI business solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransalasgomez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.salasgomez@outlook.com)
