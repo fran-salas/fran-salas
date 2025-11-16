@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Fran Salas
 
-### 🤖 AI/ML Engineer | Building & Deploying Intelligent Solutions for Business Impact
+### AI/ML Engineer | Building & Deploying Intelligent Solutions for Business Impact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransalasgomez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.salasgomez@outlook.com)
@@ -11,20 +11,14 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm an AI/ML engineer with a background in **engineering and technology management**, specializing in building and deploying machine learning solutions that drive measurable business impact. Currently working as a Research Assistant at **Delft University of Technology** while developing production-grade AI/ML systems.
+AI/ML engineer with expertise in deploying end-to-end machine learning solutions for business applications. Background in engineering, technology management, and consulting with experience at ESA, Deloitte, and leading research institutions.
 
-- 🔭 **Current Focus:** End-to-end ML pipelines, MLOps, and AI deployment for business applications
-- 🌱 **Learning:** Production ML systems, deep learning, and scalable AI architectures
-- 🎓 **Education:** MSc Management of Technology (TU Delft, cum laude) | BEng Electrical Engineering
-- 💼 **Experience:** ESA, Deloitte Consulting, Telespazio | Engineering, consulting, and AI/ML integration
-- 📍 **Location:** Amsterdam, Netherlands
-- 🎯 **Mission:** Leveraging AI/ML to solve complex business problems with quantifiable ROI
-
+- **Current Focus:** Production ML systems, NLP applications, and AI-driven business solutions
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,64 +51,29 @@ I'm an AI/ML engineer with a background in **engineering and technology manageme
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-salas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-salas&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## Experience
 
-Here are some of my key AI/ML projects demonstrating end-to-end deployment capabilities:
-
-### 🎯 Coming Soon: Production ML Projects
-**Focus:** Business-driven AI/ML solutions with measurable impact
-- End-to-end ML pipelines with deployment
-- Real-time inference APIs
-- MLOps and production monitoring
-- Business analytics with ML
-
-*Currently building portfolio projects - check back soon!*
+**European Space Agency** | Digital Officer (2024)
+**TU Delft** | AI/ML Integration Engineer (2023-2024)
+**Deloitte** | Digital Transformation Consultant (2021-2023)
 
 ---
 
-## 📈 Current Learning Journey
+## Let's Connect
 
-- 📚 **Andrew Ng's Machine Learning Specialization** - Foundation in ML theory and practice
-- 🚀 **Fast.ai Practical Deep Learning** - Production-grade deep learning implementations
-- 🔧 **MLOps Engineering** - Model deployment, monitoring, and CI/CD for ML
-- ☁️ **Cloud-Native AI Solutions** - AWS and Azure ML infrastructure
-- 💼 **AI for Business Impact** - Focusing on ROI-driven ML applications
-
----
-
-## 🌟 Professional Background
-
-**Engineering & Consulting Experience:**
-- 🛰️ **ESA (European Space Agency)** - AI/ML integration and technical projects
-- 💼 **Deloitte Consulting** - Strategy and technology consulting (2+ years)
-- 🚀 **Telespazio** - Space technology and systems engineering
-- 🔬 **TU Delft** - Research in sustainability and infrastructure (current)
-
-**Technical Leadership:**
-- End-to-end AI/ML pipeline development
-- Stakeholder coordination and agile methodologies
-- Enterprise digitalization and AI service integration
-- Cross-functional team collaboration in technical environments
-
----
-
-## 🤝 Let's Connect
-
-I'm actively building my AI/ML portfolio and looking to collaborate on projects that create real business value. Whether you're working on interesting ML problems or looking for someone with a blend of technical and business expertise, let's connect!
+I'm actively building my AI/ML portfolio and looking to collaborate. 
 
 - 💼 **LinkedIn:** [Francisco Salas Gómez](https://www.linkedin.com/in/fransalasgomez)
 - 📧 **Email:** [francisco.salasgomez@outlook.com](mailto:francisco.salasgomez@outlook.com)
@@ -123,8 +82,7 @@ I'm actively building my AI/ML portfolio and looking to collaborate on projects 
 
 <div align="center">
   
-### 💡 "Transforming business challenges into AI-driven solutions with measurable ROI"
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=fran-salas&color=blue&style=flat-square)
 
 </div>
