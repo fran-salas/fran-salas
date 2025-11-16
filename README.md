@@ -42,7 +42,6 @@ Expertise in deploying end-to-end machine learning solutions for business applic
 
 <div align="center">
 
-<> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-salas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 </div>
