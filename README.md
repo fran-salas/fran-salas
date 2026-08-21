@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Fran Salas
 
-### AI/ML Engineer | Building & Deploying Intelligent Solutions for Business Impact
+### AI/ML Engineer | Building & Deploying Intelligent Solutions
 Expertise in deploying end-to-end machine learning solutions for business applications. Background in engineering, technology management, and consulting with experience at ESA, Deloitte, and leading research institutions.\
 **Current Focus:** Production ML systems, NLP applications, and AI business solutions
 
